@@ -4,7 +4,7 @@
 
 - Mã học viên theo lớp: 2A202603109
 - Ngày / CVAT local: 12/11/2026
-- Công cụ đã dùng:SAM3
+- Công cụ đã dùng: SAM3,CHAT GPT, Manual
 
 Mã học viên là mã lớp cấp; không cần ghi họ tên trong report nếu kênh [LMS](https://aithucchien.vinuni.edu.vn) đã nhận diện bạn. Chỉ ghi công cụ thật sự đã dùng; không có SAM vẫn làm bài bình thường.
 
